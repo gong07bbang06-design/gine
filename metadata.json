@@ -1,0 +1,6 @@
+{
+  "name": "공부했닭 (Study-Hess-Dak)",
+  "description": "귀여운 캐릭터를 키우며 스마트폰 유혹에서 벗어나는 수험생 맞춤형 자습 모니터링 타이머",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
